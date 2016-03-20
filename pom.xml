@@ -12,6 +12,7 @@
 	haha
 	-->
 	
+	<!--test5 -->
 	<repositories>
 		<repository>
 			<id>maven-repository</id>
