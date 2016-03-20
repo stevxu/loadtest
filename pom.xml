@@ -8,7 +8,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<!--test3 -->
+	<!--test5 -->
 	<repositories>
 		<repository>
 			<id>maven-repository</id>
