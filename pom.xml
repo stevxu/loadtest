@@ -8,11 +8,6 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<!--test 6
-	haha
-	-->
-	
-	<!--test5 -->
 	<repositories>
 		<repository>
 			<id>maven-repository</id>
